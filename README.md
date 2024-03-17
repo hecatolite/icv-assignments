@@ -1,5 +1,5 @@
 ## 计算机视觉导论(PKU 2022 春)课程作业
-- 代码和作业报告会在作业截止后上传. ~~(如果我没有中期退课的话)~~
+- 代码和作业报告会在作业截止后上传.
 - PDF 里的链接在 Github 上是点不了的, 下载到本地就能点了.
 
 ### Course projects of *Introduction to Computer Vision*, Peking University, 2022 Spring.
